@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @hangle2405
-- 👀 I’m interested in ML
-- 🌱 I’m currently learning ML
-- 💞️ I’m looking to collaborate on ML
+- 👀 I’m interested in ML & AI
+- 🌱 I’m currently learning ML & AI
+- 💞️ I’m looking to collaborate on ML & AI project
 - 📫 How to reach me lethithuyhang2405@gmail.com
 
 <!---
